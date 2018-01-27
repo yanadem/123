@@ -1,0 +1,12 @@
+---
+title: '123'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Этот файл содержит описание проекта
+
+Тут очень полезный и содержательный текст.
